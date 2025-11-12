@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🧑‍💻 João Lucas  
+**`Desenvolvedor Fullstack Júnior`**
 
-<!--
-**JoaoLucasG/joaolucasg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor web especializado em [Laravel (PHP)](https://laravel.com/), com experiência em desenvolvimento e manutenção de sistemas web.  
+Atuo na criação de novas funcionalidades, correção de bugs, melhorias de performance e segurança, além de modelagem de dados e suporte em ambiente de produção.
 
-Here are some ideas to get you started:
+Tenho experiência com **integração de APIs REST**, **versionamento com Git/GitHub** e **metodologias ágeis (Scrum)**.  
+Também atuo no **front-end**, desenvolvendo interfaces **responsivas e performáticas** com **HTML, CSS e JavaScript**, aplicando boas práticas de componentização e organização de código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tecnologias e Ferramentas
+<div>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,git,github,vscode" />
+</div>
+
+### 📫 Entre em contato
+💼 **[LinkedIn](www.linkedin.com/in/joao-lucas-gomes-magalhães)**  
+📧 **jlucasgmagalhaes@gmail.com**  
+💬 **discord: j.lucasgm**
