@@ -11,7 +11,7 @@ Também atuo no **front-end**, desenvolvendo interfaces **responsivas e perform�
 
 ### 🧰 Tecnologias e Ferramentas
 <div>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,git,github,vscode,figma" />
 </div>
 
 ### 📫 Entre em contato
