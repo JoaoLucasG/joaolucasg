@@ -22,9 +22,3 @@ Também atuo no **front-end**, desenvolvendo interfaces **responsivas e perform�
 💼 **[LinkedIn](www.linkedin.com/in/joao-lucas-gomes-magalhães)**  
 📧 **jlucasgmagalhaes@gmail.com**  
 💬 **discord: j.lucasgm**
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoLucasG/JoaoLucasG/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoLucasG/JoaoLucasG/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoLucasG/JoaoLucasG/output/pacman-contribution-graph.svg">
-</picture>
