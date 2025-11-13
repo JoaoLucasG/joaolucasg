@@ -1,4 +1,8 @@
-# 🧑‍💻 João Lucas  
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+     
+# 🧑‍💻 João Lucas   
 **`Desenvolvedor Fullstack Júnior`**
 
 Sou desenvolvedor web especializado em [Laravel (PHP)](https://laravel.com/), com experiência em desenvolvimento e manutenção de sistemas web.  
@@ -18,3 +22,5 @@ Também atuo no **front-end**, desenvolvendo interfaces **responsivas e perform�
 💼 **[LinkedIn](www.linkedin.com/in/joao-lucas-gomes-magalhães)**  
 📧 **jlucasgmagalhaes@gmail.com**  
 💬 **discord: j.lucasgm**
+
+<img src="https://raw.githubusercontent.com/JoaoLucasG/JoaoLucasG/output/snake.svg" alt="Snake animation" />
