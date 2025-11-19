@@ -20,5 +20,5 @@ Também atuo no **front-end**, desenvolvendo interfaces **responsivas e perform�
 
 ### 📫 Entre em contato
 💼 **[LinkedIn](www.linkedin.com/in/joao-lucas-gomes-magalhães)**  
-📧 **jlucasgmagalhaes@gmail.com**  
+📧 **jlucasgm.dev@gmail.com**  
 💬 **discord: j.lucasgm**
